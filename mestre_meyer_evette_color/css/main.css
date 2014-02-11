@@ -1,0 +1,55 @@
+/* colorschemedesigner.com
+
+scheme ID: 4Y21Tw0w0w0w0
+deep magenta: #AD009F / rgb(173,0,159)
+dark purple: #82217A / rgb(130,33,122)
+deep purple: #710067 / rgb(113,0,103) 
+bright pink: #D636C9 / rgb(214,54,201) 
+lt magenta: #D660CC / rgb(214,96,204)
+bright lime: #C6F500 / rgb(198,245,0)
+lt lime: #E0FA71
+
+*/
+
+
+/* main heading */
+body {
+	font-family: arial;
+	background-color: lightgray;
+	background-color: hsl(5,5%,70%);
+	
+}
+	
+h1 {
+	color: white;
+	background-color: rgb(214,54,201);
+	padding: 20px;
+	text-align: center;
+	
+}
+	
+h2 {
+	color: #fff;
+	background-color: rgba(130,33,122,0.75);
+	padding: 10px;
+
+}
+
+h3 {
+	color: #AD009F;
+	margin: 15px;
+	
+}
+
+h5 {
+	color: #82217A;
+	font-style: italic;
+	margin: 25px; 
+	
+}
+
+p {
+	margin: 20px;
+}
+
+
