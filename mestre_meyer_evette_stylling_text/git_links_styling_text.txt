@@ -1,0 +1,5 @@
+https://github.com/EvetteMM/DWS1-Retake/tree/gh-pages
+
+http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_stylling_text/styling_text.html
+
+http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_stylling_text/css/main_styling_text.css
