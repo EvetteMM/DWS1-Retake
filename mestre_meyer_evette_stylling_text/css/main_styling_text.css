@@ -1,0 +1,101 @@
+/* Evette Mestre Meyer #2457636, DWS1, Sec 1, Styling Text */
+
+/* colorschemedesigner.com
+
+scheme ID: 4Y21Tw0w0w0w0
+deep magenta: #AD009F / rgb(173,0,159)
+dark purple: #82217A / rgb(130,33,122)
+deep purple: #710067 / rgb(113,0,103) 
+bright pink: #D636C9 / rgb(214,54,201) 
+lt magenta: #D660CC / rgb(214,96,204)
+bright lime: #C6F500 / rgb(198,245,0)
+lt lime: #E0FA71
+
+*/
+
+
+/* main heading */
+body {
+	font: normal 12pt /1 arial;    
+	background-color: lightgray;
+	/* background-color: hsl(5,5%,70%);      from color.html */
+	
+}
+
+h1 {
+	font-family: 'Fugaz One', cursive;
+	color: rgb(214,54,201);
+	letter-spacing: .15em;
+	word-spacing: .5em;
+	text-shadow: 1px 1px 3px #710067;
+	text-align: center;
+	font-size: 400%;
+	
+}	
+	
+h2 {
+	color: white;
+	text-transform: uppercase;
+	/* background-color: rgba(130,33,122,0.75);      from color.html */
+	background-color: rgb(130,33,122);
+	padding: 10px;
+	letter-spacing: .15em;
+	
+}
+
+h3 {
+	color: #AD009F;
+	margin: 15px;
+	
+}
+
+h4 {
+	text-align: center;
+	word-spacing: 2em;
+}
+
+h4 a {
+	color: rgb(113,0,103);
+	text-decoration: none;
+	
+}
+
+h4 a:hover {
+	color: #C6F500;
+}
+
+
+h5 {
+	color: #82217A;
+	font-style: italic;
+	margin: 25px; 
+	
+}
+
+p {
+	margin: 20px;
+	line-height: 1.25em;
+	
+}
+
+#references li {
+	font-size: 75%;
+	text-decoration: none;
+}
+
+#references a:link {
+	color: #710067;
+	text-decoration: none;
+}
+
+#references a:visited {
+	color: #D636C9;
+}
+
+#references a:active {
+	color: #E0FA71; 
+}
+
+
+
+
