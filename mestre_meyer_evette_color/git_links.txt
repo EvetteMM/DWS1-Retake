@@ -1,2 +1,4 @@
+https://github.com/EvetteMM/DWS1-Retake/tree/gh-pages
+https://github.com/EvetteMM/DWS1-Retake/tree/gh-pages/mestre_meyer_evette_color
 http://evettemm.github.io/DWS1-Retake/color.html
 http://evettemm.github.io/DWS1-Retake/main.css
