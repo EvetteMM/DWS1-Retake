@@ -1,0 +1,152 @@
+/* Evette Mestre Meyer #2457636, DWS1, Sec 1, Box Model */
+
+/* colorschemedesigner.com
+
+scheme ID: 4Y21Tw0w0w0w0
+deep magenta: #AD009F / rgb(173,0,159)
+dark purple: #82217A / rgb(130,33,122)
+deep purple: #710067 / rgb(113,0,103) 
+bright pink: #D636C9 / rgb(214,54,201) 
+lt magenta: #D660CC / rgb(214,96,204)
+bright lime: #C6F500 / rgb(198,245,0)
+lt lime: #E0FA71
+
+*/
+
+
+/* main heading */
+body {
+	font: normal 12pt /1 arial;    
+	background-color: lightgray;
+	width: 900px;
+	margin-top: 25px;
+	margin-right: auto;
+	margin-left:auto;
+	margin-bottom:0px;
+	
+}
+
+#header {
+	width: 900px;
+	height: 150px;
+	font-family: 'Fugaz One', cursive;
+	color: rgb(214,54,201);
+	letter-spacing: .15em;
+	word-spacing: .5em;
+	text-shadow: 2px 2px 5px #710067;
+	text-align: center;
+	font-size: 250%;
+	border-color: #82217A;
+	border-style: ridge;
+	border-radius: 10px;
+	border-width: 5px;
+	background-color: rgba(214,54,201,.15);
+	-moz-box-shadow: 0 0 10px #D636C9;
+	-webkit-box-shadow: 0 0 10px #D636C9;
+	box-shadow: 0 0 10px #D636C9;
+	
+}	
+
+#menu_bar {
+	text-align: center;	
+	font-weight: bold;
+	font-size: 125%;
+	
+}
+
+#menu_bar ul li {
+	list-style-type: none;
+	display: inline;
+	margin-right: 20px;	
+
+}
+
+#menu_bar ul li a {
+	color: rgb(113,0,103);
+	text-decoration: none;	
+	
+}
+
+#menu_bar ul li a:hover {
+	color: #C6F500;	
+	
+}
+
+#intro {
+	width: 850px;
+	background-color: #82217A;
+	padding: 15px 25px 15px 25px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	
+}
+
+#intro p {
+	color: #fff;
+	
+}
+	
+h2 {
+	color: white;
+	text-transform: uppercase;
+	background-color: rgb(130,33,122);
+	padding: 10px;
+	letter-spacing: .15em;
+	
+}
+
+h3 {
+	color: #AD009F;
+	
+}
+
+h5 {
+	color: #82217A;
+	font-style: italic;
+	
+}
+
+p {
+	line-height: 1.25em;
+	
+}
+
+#history, #applications, #skills, #tools, #occupations, #references {
+	width: 900px;
+	background-color: #fff;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	margin-bottom: 20px;
+	
+}
+
+#history_body, #applications_body, #skills_body, #tools_body, #occupations_body, #references_body  {
+	padding: 0px 25px 15px 25px;
+}
+
+#references li {
+	list-style-type: decimal;
+	font-size: 75%;
+	text-decoration: none;
+	
+}
+
+#references a:link {
+	color: #710067;
+	text-decoration: none;
+	
+}
+
+#references a:visited {
+	color: #D636C9;
+	
+}
+
+#references a:active {
+	color: #E0FA71; 
+	
+}
+
+
+
+
