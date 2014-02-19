@@ -1,5 +1,11 @@
 https://github.com/EvetteMM/DWS1-Retake/tree/gh-pages
 
-http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_box_model/box_model.html
+http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_layout/layout.html
 
-http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_box_model/css/main_box_model.css
+http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_layout/css/main_layout.css
+
+http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_layout/images/intro_graphic.jpg
+
+http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_layout/images/team.jpg
+
+http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_layout/images/designer.jpg
