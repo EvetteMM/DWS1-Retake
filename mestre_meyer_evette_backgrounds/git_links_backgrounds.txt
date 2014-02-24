@@ -3,4 +3,3 @@ https://github.com/EvetteMM/DWS1-Retake/tree/gh-pages
 http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_backgrounds/backgrounds.html
 
 http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_backgrounds/css/main_backgrounds.css
-
