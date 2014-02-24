@@ -7,6 +7,29 @@
 		<title>Graphic Design</title>
 		<link href="css/main_html5_layout_tables.css" type="text/css" rel="stylesheet" />
 		<link href='http://fonts.googleapis.com/css?family=Fugaz+One' rel='stylesheet' type='text/css' />
+		<project name="html5shiv" default="html5shiv" basedir=".">
+
+	<property name="dist" value="./dist/"/>
+	<property name="src" value="./src"/>
+	
+	<target name="html5shiv">
+		<mkdir dir="${dist}" />
+		<apply executable="java" parallel="false" verbose="true" dest="${dist}">
+			<fileset dir="${src}">
+				<include name="*.js" />
+			</fileset>
+			<arg line="-jar" />
+			<arg path="build/compiler.jar" />
+			<arg value="--warning_level" />
+			<arg value="QUIET" />
+			<arg value="--js_output_file" />
+			<targetfile />
+			<arg value="--js" />
+			<mapper type="glob" from="*.js" to="*.js" />
+		</apply>
+	</target>
+	
+</project>
 	</head>
 	
 	<body>

@@ -21,8 +21,8 @@ header, nav, div, section, aside, article, footer {
 
 body {
 	color: black;
-	background-image: url("images/duskB.png");
-	background-repeat: repeat-y;
+	background-image: url("../images/dusk/dusk.png");
+	background-repeat: repeat;
 	background-attachment: fixed;
 	font: normal 1em /1 arial;    
 	margin: 0px;
@@ -68,7 +68,8 @@ nav {
 	text-align: center;	
 	font-weight: bold;
 	font-size: 125%;
-	width: 940px;	
+	width: 940px;
+		
 }
 
 nav li {
@@ -79,8 +80,8 @@ nav li {
 }
 
 nav li a {
-	color: rgb(113,0,103);
-	text-decoration: none;	
+	color: #D636C9;
+	text-decoration: none;
 	
 }
 
@@ -98,7 +99,7 @@ aside {
 	margin-right: 1%;
 	float: left;
 	background-color: #82217A;
-	opacity: 0.75;
+	opacity: 0.85;
 	padding: 15px 25px 15px 25px;
 	border-radius: 10px;
 }
@@ -140,12 +141,9 @@ aside h5 {
 
 .history, .skills, .tools, .adobe, .references {
 	background-color: #fff;
-	opacity: 0.75;
+	opacity: 0.85;
 	border-radius: 10px;
 	margin-bottom: 2%;
-	background-image: url("images/9.png");
-	background-repeat: no-repeat;
-	background-position: right top;
 	padding-top: 1%;
 	padding-bottom: 1%;
 }
