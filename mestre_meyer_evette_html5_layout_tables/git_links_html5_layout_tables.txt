@@ -3,4 +3,3 @@ https://github.com/EvetteMM/DWS1-Retake/tree/gh-pages
 http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_html5_layout_tables/html5_layout_tables.html
 
 http://evettemm.github.io/DWS1-Retake/mestre_meyer_evette_html5_layout_tables/css/main_html5_layout_tables.css
-
