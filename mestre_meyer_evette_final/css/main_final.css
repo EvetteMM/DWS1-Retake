@@ -118,6 +118,10 @@ aside p {
 	line-height: 1.25em;
 }
 
+aside h3 {
+	color: #7F0000;	
+}
+
 fieldset {
 	width: 30%;
 	margin: 1px auto 1px auto;
@@ -185,8 +189,6 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	margin: 0px 15px 0px 15px;
 }
 
-
-
 .little_pleasures a {
 	padding: 0px 10px 10px 10px;
 	color: #BF0000;
@@ -198,6 +200,14 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 
 .little_pleasures a:hover {
 	color: #FF0000;
+}
+
+.little_pleasures a:visited {
+	color: #400000;
+}
+
+.little_pleasures a:active {
+	color: #808080;
 }
 
 .little_pleasures img {
@@ -269,6 +279,21 @@ figure {
 figcaption {
 	font-size: 80%;
 	padding: 0px 0px 0px 5px;
+	text-align: center;
+}
+
+blockquote {
+	float: right;
+	width: 75px;
+	background-color: #BF0000;
+	border-radius: 5px;
+	color: lightgrey;
+	font-size: 125%;
+	font-style: italic;
+	font-family: Georgia Times Times New Roman;
+	margin: 0px 0px 10px 10px;
+	padding: 10px;
+	line-height: 1.25em;
 	text-align: center;
 }
 
